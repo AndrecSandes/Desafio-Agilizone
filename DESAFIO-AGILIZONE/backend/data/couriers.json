@@ -1,0 +1,71 @@
+[
+  {
+    "id": "c01",
+    "name": "Carlos Silva",
+    "lat": -23.5874,
+    "lng": -46.6396,
+    "status": "Disponível"
+  },
+  {
+    "id": "c02",
+    "name": "Maria Souza",
+    "lat": -23.5680,
+    "lng": -46.6940,
+    "status": "Ocupado"
+  },
+  {
+    "id": "c03",
+    "name": "João Almeida",
+    "lat": -23.5840,
+    "lng": -46.6750,
+    "status": "Disponível"
+  },
+  {
+    "id": "c04",
+    "name": "Ana Costa",
+    "lat": -23.6020,
+    "lng": -46.6620,
+    "status": "Disponível"
+  },
+  {
+    "id": "c05",
+    "name": "Pedro Santos",
+    "lat": -23.5550,
+    "lng": -46.6890,
+    "status": "Ocupado"
+  },
+  {
+    "id": "c06",
+    "name": "Lúcia Ferreira",
+    "lat": -23.5650,
+    "lng": -46.6420
+  },
+  {
+    "id": "c07",
+    "name": "Roberto Oliveira",
+    "lat": -23.5500,
+    "lng": -46.6320,
+    "status": "Disponível"
+  },
+  {
+    "id": "c08",
+    "name": "Fernanda Lima",
+    "lat": -23.5615,
+    "lng": -46.6560,
+    "status": "Disponível"
+  },
+  {
+    "id": "c09",
+    "name": "Tiago Rocha",
+    "lat": -23.5470,
+    "lng": -46.6600,
+    "status": "Ocupado"
+  },
+  {
+    "id": "c10",
+    "name": "Camila Martins",
+    "lat": -23.5800,
+    "lng": -46.6730,
+    "status": "Disponível"
+  }
+]
