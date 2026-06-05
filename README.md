@@ -134,7 +134,7 @@ Primeiramente, gostaria de agradecer novamente pela oportunidade de participar d
 
 Este foi um dos projetos mais desafiadores que já desenvolvi até o momento. Durante a realização do desafio, precisei sair da minha zona de conforto, pesquisar bastante e buscar soluções para problemas que eu ainda não havia enfrentado na prática.
 
-Apesar de já possuir conhecimentos em desenvolvimento, eu ainda não tinha experiência desenvolvendo uma aplicação utilizando React integrada a um backend próprio. Por isso, além de testar minhas habilidades técnicas, este desafio também me proporcionou um grande aprendizado sobre comunicação entre frontend e backend, gerenciamento de estado e organização de aplicações web.
+Apesar de já possuir conhecimentos em desenvolvimento, eu ainda não tinha experiência desenvolvendo uma aplicação utilizando React integrada a um backend próprio. Por isso, além de testar minhas habilidades técnicas, este desafio também me proporcionou um grande aprendizado sobre comunicação entre frontend e backend, gerenciamento e organização de aplicações web.
 
 Ao longo do desenvolvimento, procurei dar o meu melhor em cada etapa, buscando compreender a lógica por trás das tecnologias utilizadas e não apenas fazer o projeto funcionar.
 
