@@ -5,7 +5,6 @@ export default function App() {
   const [orders, setOrders] = useState([]);
   const [assignment, setAssignment] = useState(null);
 
-  // Carrega entregadores e pedidos ao abrir a página
   useEffect(() => {
     fetch('http://localhost:3001/api/couriers')
       .then(res => res.json())
